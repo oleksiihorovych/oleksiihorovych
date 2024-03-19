@@ -1,4 +1,4 @@
-#Oleksii Horovych
+# Oleksii Horovych
 Student of MFF Charles University in Prague
 
 <!---
