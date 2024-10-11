@@ -7,7 +7,7 @@
     <li>📫 Reach me by <a href="https://www.linkedin.com/in/oleksii-horovych/">LinkedIn</a>, <a href="mailto:biseizzzed@gmail.com">email</a>, +420774171497</li>
     <li>📄 Experience and CV via <a href="https://www.linkedin.com/in/oleksii-horovych/">LinkedIn</a>
     <li>💻 Developing my own project on C# and .NET</li>
-    <li>✍️ Student of Charles University in Prague (Currently suspended studzing for a year to gain commercial experience)</li>
+    <li>✍️ Student of Charles University in Prague (Currently suspended studying for a year to gain commercial experience)</li>
     <li>🌍 I speak English, Czech, Ukrainian and Russian</li>
   </ul>
 </div>
