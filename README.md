@@ -1,4 +1,5 @@
 # Oleksii Horovych
+Junior C# .NET developer.
 Student of MFF Charles University in Prague
 
 <!---
