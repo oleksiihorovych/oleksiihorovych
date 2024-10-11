@@ -1,6 +1,6 @@
 <div id="about-me">
   <h1>Oleksii Horovych</h1>
-  <p> Junior C# .NET developer </p>
+  <p> Junior C# .NET developer based in Prague, Czech Republic </p>
   <h3>About me</h2>
   <ul>
     <li>📚 Actively improving my knowledge in .NET technologies</li>
