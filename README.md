@@ -4,8 +4,8 @@
   <h3>About me</h2>
   <ul>
     <li>📚 Actively improving my knowledge in .NET technologies</li>
-    <li>📄 Know about my experiences <a href="https://your-cv-link.com">CV</a></li>
-    <li>📫 Reach me by <a href="https://linkedin.com/in/your-profile">LinkedIn</a>, <a href="mailto:youremail@example.com">email</a></li>
+    <li>📫 Reach me by <a href="https://www.linkedin.com/in/oleksii-horovych/">LinkedIn</a>, <a href="mailto:biseizzzed@gmail.com">email</a>, +420774171497</li>
+    <li>📄 Experience and CV via <a href="https://linkedin.com/in/your-profile">LinkedIn</a>
     <li>💻 Developing my own project on C# and .NET</li>
     <li>✍️ Student of Charles University in Prague, </li>
     <li>🌍 I speak English, Czech, Ukrainian and Russian</li>
